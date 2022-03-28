@@ -67,7 +67,7 @@ public class Pessoa {
 		this.sexo = sexo;
 	}
 	
-	/*abaixo ainda n func*/
+	/*------------*/
 	
 	@Override
 	public int hashCode() {
